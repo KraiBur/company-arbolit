@@ -1,0 +1,767 @@
+@media (max-width:660px) {
+    .row a {
+        color: #000;
+        text-align: center;
+        width: 96%;
+        font-family: Raleway-m;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        text-decoration: none;
+    }
+
+    .zag h4 {
+        color: #999;
+        text-align: center;
+        font-family: Raleway-l;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 170%;
+        margin-top: 0;
+        width: 79.11% !important;
+        text-align: center;
+    }
+
+    .acc {
+        width: 20% !important;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .col {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        width: 48%;
+        border-radius: 40px;
+        background: #FFF;
+        box-shadow: 0px 3px 25px 0px rgba(0, 0, 0, 0.25);
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:330px) {
+    
+    .in-products {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .cr {
+        width: 100% !important;height: 205px !important;
+    }
+
+    .col {
+        width: 100%;
+    }
+
+    .row a {
+        font-size: 16px;
+    }
+
+    .row p {
+        font-size: 14px;
+    }
+
+    .text-right a {
+        font-size: 16px;
+    }
+
+    .zag h1 {
+        font-size: 16px;
+    }
+
+    .zag h4 {
+        font-size: 14px !important;
+        width: 100% !important;
+    }
+
+    .acc {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .qr__text p {
+        font-size: 12px !important;
+        line-height: normal !important;
+    }
+
+    h1 {
+        font-size: 14px !important;
+    }
+
+    .zayav {
+        font-size: 12px !important;
+    }
+
+    .photo__qr {
+        display: none !important;
+    }
+
+    .qr {
+        justify-content: flex-end !important;
+    }
+
+    .z__o {
+        font-size: 14px !important;
+    }
+
+    .text__od {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+
+    .z__od {
+        font-size: 16px !important;
+    }
+
+    .tt__od {
+        font-size: 12px !important;
+    }
+
+    .cart__od {
+        flex-direction: column !important;
+        width: 100% !important;
+    }
+
+    .row__od {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    main {
+        height: auto !important;
+    }
+
+    .photo__od {
+        justify-content: center !important;
+    }
+
+    .z__oa {
+        justify-content: center !important;
+        font-size: 14px !important;
+    }
+
+    .content__header {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    .zag__arbolit {
+        font-size: 16px !important;
+    }
+
+    .text-arbolit {
+        font-size: 12px !important;
+    }
+
+    header {
+        height: 275px !important;
+    }
+
+    .line__center {
+        margin-bottom: 15px !important;
+    }
+
+    .cont__c2 {
+        display: none !important;
+    }
+
+    .zag__ta {
+        font-size: 16px !important;
+    }
+
+    .text__ta {
+        line-height: normal !important;
+        font-size: 12px !important;
+    }
+
+    .row__ta {
+        flex-wrap: wrap !important;
+    }
+
+    .block__ta {
+        width: 50% !important;
+    }
+
+    .qr__text {
+        width: 100% !important;
+    }
+
+    .row1__character {
+        flex-direction: column !important;
+    }
+
+    .cart__character {
+        width: 100% !important;
+    }
+
+    .cart__character-one {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+
+    .cart__character-two {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+}
+
+@media (max-width:378px) {
+    .cont__c2 {
+        display: none !important;
+    }
+
+    .in-products {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .col {
+        width: 100%;
+    }
+
+    .row a {
+        font-size: 16px;
+    }
+
+    .row p {
+        font-size: 14px;
+    }
+
+    .text-right a {
+        font-size: 16px;
+    }
+
+    .zag h1 {
+        font-size: 16px;
+    }
+
+    .zag h4 {
+        font-size: 14px !important;
+        width: 100% !important;
+    }
+
+    .acc {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .qr__text p {
+        font-size: 12px !important;
+        line-height: normal !important;
+    }
+
+    h1 {
+        font-size: 14px !important;
+    }
+
+    .zayav {
+        font-size: 12px !important;
+    }
+
+    .z__o {
+        font-size: 14px !important;
+    }
+
+    .text__od {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+
+    .z__od {
+        font-size: 16px !important;
+    }
+
+    .tt__od {
+        font-size: 12px !important;
+    }
+
+    .cart__od {
+        flex-direction: column !important;
+        width: 100% !important;
+    }
+
+    .row__od {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    main {
+        height: auto !important;
+    }
+
+    .photo__od {
+        justify-content: center !important;
+    }
+
+    .z__oa {
+        justify-content: center !important;
+        font-size: 14px !important;
+    }
+
+    .content__header {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    .zag__arbolit {
+        font-size: 16px !important;
+    }
+
+    .text-arbolit {
+        font-size: 12px !important;
+    }
+
+    header {
+        height: 275px !important;
+    }
+
+    .line__center {
+        margin-bottom: 15px !important;
+    }
+
+    .cont__c2 {
+        display: none !important;
+    }
+
+    .zag__ta {
+        font-size: 16px !important;
+    }
+
+    .text__ta {
+        line-height: normal !important;
+        font-size: 12px !important;
+    }
+
+    .row__ta {
+        flex-wrap: wrap !important;
+    }
+
+    .block__ta {
+        width: 50% !important;
+    }
+
+
+}
+
+
+@media (max-width:600px) {
+    .zag__arbolit {
+
+        font-size: 29px !important;
+    }
+
+    .text-arbolit {
+        font-size: 16px !important;
+    }
+
+    .content__header {
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+
+    .zag__ta {
+        font-size: 16px !important;
+    }
+
+    .text__ta {
+        line-height: normal !important;
+        font-size: 12px !important;
+    }
+
+    .row__ta {
+        flex-wrap: wrap !important;
+    }
+
+    .block__ta {
+        width: 50% !important;
+    }
+
+    .acc {
+        width: 13% !important;
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .links {
+        width: 27%;
+        flex-wrap: wrap;
+    }
+
+    .links a {
+        width: 24%;
+    }
+
+    .cont__c2 {
+        display: none !important;
+    }
+
+    .zag h4 {
+        width: 100%;
+    }
+
+    .in-products {
+        flex-wrap: wrap;
+    }
+
+
+    .row a {
+        font-size: 16px;
+    }
+
+    .row p {
+        font-size: 14px;
+    }
+
+    .text-right a {
+        font-size: 16px;
+    }
+
+    .zag h1 {
+        font-size: 16px;
+    }
+
+    .zag h4 {
+        font-size: 14px !important;
+        width: 100% !important;
+    }
+
+    .acc {
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
+@media (max-width:427px) {
+    .cont__c2 {
+        display: none !important;
+    }
+
+    .row__ta {
+        width: 100% !important;
+    }
+
+    .qr__text p {
+        font-size: 12px !important;
+        line-height: normal !important;
+    }
+
+    h1 {
+        font-size: 14px !important;
+    }
+
+    .zayav {
+        font-size: 12px !important;
+    }
+
+    .z__o {
+        font-size: 14px !important;
+    }
+
+    .text__od {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+
+    .z__od {
+        font-size: 16px !important;
+    }
+
+    .tt__od {
+        font-size: 12px !important;
+    }
+
+    .cart__od {
+        flex-direction: column !important;
+        width: 100% !important;
+    }
+
+    .row__od {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    main {
+        height: auto !important;
+    }
+
+    .photo__od {
+        justify-content: center !important;
+    }
+
+    .z__oa {
+        justify-content: center !important;
+        font-size: 14px !important;
+    }
+
+    .content__header {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    .zag__arbolit {
+        font-size: 16px !important;
+    }
+
+    .text-arbolit {
+        font-size: 12px !important;
+    }
+
+    header {
+        height: 275px !important;
+    }
+
+    .line__center {
+        margin-bottom: 15px !important;
+    }
+}
+
+@media (max-width:660px) {
+    .z__od {
+        font-size: 14px !important;
+    }
+
+    .tt__od {
+        font-size: 12px !important;
+    }
+
+    .acc {
+        width: 13% !important;
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .text__ta {
+
+        font-size: 11px !important;
+    }
+
+    .links {
+        width: 27%;
+        flex-wrap: wrap;
+    }
+
+    .links a {
+        width: 24%;
+    }
+
+
+    .zag h4 {
+        width: 100%;
+    }
+
+    .in-products {
+        flex-wrap: wrap;
+    }
+
+
+    .row a {
+        font-size: 16px;
+    }
+
+    .row p {
+        font-size: 14px;
+    }
+
+    .text-right a {
+        font-size: 16px;
+    }
+
+    .zag h1 {
+        font-size: 16px;
+    }
+
+    .zag h4 {
+        font-size: 14px !important;
+        width: 100% !important;
+    }
+
+    .acc {
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
+@media (max-width:850px) {
+    .z__o {
+        font-size: 14px !important;
+    }
+
+    .text__od {
+        font-size: 12px !important;
+        width: 100% !important;
+    }
+
+    .z__od {
+        font-size: 16px !important;
+    }
+
+    .tt__od {
+        font-size: 12px !important;
+    }
+
+    .cart__od {
+        flex-direction: column !important;
+        width: 100% !important;
+    }
+
+    .row__od {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+
+    main {
+        height: auto !important;
+    }
+
+    .photo__od {
+        justify-content: center !important;
+    }
+
+    .zag__preim {
+        font-size: 20px !important;
+    }
+
+    .zag__cha {
+        font-size: 10px !important;
+    }
+
+    .cont__c2 {
+        height: 619px !important;
+    }
+
+
+
+}
+
+@media (max-width:800px) {
+    .obsh {
+        height: 510px !important;
+    }
+
+    .tt__gr {
+        font-size: 10px !important;
+    }
+
+    .cont__c2 {
+        height: 619px !important;
+    }
+
+    .acc {
+        width: 13% !important;
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .links {
+        width: 50% !important;
+        flex-wrap: wrap;
+    }
+
+    .links a {
+        width: 24% !important;
+    }
+
+
+    .zag h4 {
+        width: 100%;
+    }
+
+    .in-products {
+        flex-wrap: wrap;
+    }
+
+
+    .row a {
+        font-size: 16px;
+    }
+
+    .row p {
+        font-size: 14px;
+    }
+
+    .text-right a {
+        font-size: 16px;
+    }
+
+    .zag h1 {
+        font-size: 16px;
+    }
+
+    .zag h4 {
+        font-size: 14px !important;
+        width: 100% !important;
+    }
+
+    .acc {
+        flex-direction: column;
+        width: 100%;
+        width: 9% !important;
+    }
+}
+
+@media (max-width:1024px) {
+    .acc {
+        width: 13% !important;
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+
+    .links a {
+        font-size: 12px !important;
+    }
+
+    .col {
+        box-shadow: 0px 3px 15px 0px rgba(168, 201, 104, 0.91);
+    }
+
+    .zag h4 {
+        width: 100%;
+    }
+
+    .in-products {
+        flex-wrap: wrap;
+    }
+
+
+    .row a {
+        font-size: 16px;
+    }
+
+    .row p {
+        font-size: 14px;
+    }
+
+    .text-right a {
+        font-size: 16px;
+    }
+
+    .zag h1 {
+        font-size: 16px;
+    }
+
+    .zag h4 {
+        font-size: 14px !important;
+        width: 100% !important;
+    }
+
+    .acc {
+        flex-direction: column;
+        width: 100%;
+        width: 9% !important;
+    }
+}
+
+.acc1{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
